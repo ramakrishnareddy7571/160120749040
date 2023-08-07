@@ -1,0 +1,14 @@
+.train-table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0;
+  }
+  
+  .train-table th,
+  .train-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    font-weight: bold;
+  }
+  
